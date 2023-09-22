@@ -1,0 +1,8 @@
+.background-example {
+    background-image: url('gambar.jpg'); 
+    background-size: cover;
+    background-repeat: no-repeat; 
+    color: #0e9963; 
+    padding: 200px; 
+    text-align: center;
+}

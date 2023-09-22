@@ -1,0 +1,14 @@
+h1 {
+    font-size: 50px;
+    color: #e74c00;
+    text-transform: uppercase;
+}
+
+p {
+    text-align: justify;
+    text-indent: 100px;
+    letter-spacing: 0px;
+    word-spacing: 1px;
+}
+
+a { text-decoration: none;}
